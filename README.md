@@ -5,7 +5,7 @@
 <h1 align="center">ZeroClaw 🦀</h1>
 
 <p align="center">
-  <em>This is a clone of the <a href="https://github.com/zeroclaw-labs/zeroclaw">original zeroclaw repository</a> with added comprehensive documentation — including an <a href="docs/ARCHITECTURE.md">Architecture Guide</a>, <a href="docs/DEVELOPER_GUIDE.md">Developer Guide</a>, and <a href="docs/USER_GUIDE.md">User Guide</a>.</em>
+  <em>This is a clone of the <a href="https://github.com/zeroclaw-labs/zeroclaw">original zeroclaw repository</a> with added comprehensive documentation — including an <a href="docs/ARCHITECTURE.md">Architecture Guide</a>, <a href="docs/DEVELOPER_GUIDE.md">Developer Guide</a>, <a href="docs/USER_GUIDE.md">User Guide</a>, <a href="docs/TECHNOLOGY_STACK.md">Technology Stack</a>, and <a href="docs/RUST_TUTORIAL.md">Rust Tutorial</a>.</em>
 </p>
 
 ---
@@ -711,6 +711,8 @@ git push --no-verify
 
 - **[Architecture Guide](docs/ARCHITECTURE.md)** — Comprehensive architecture documentation with ASCII diagrams showing component design, communication flows, and data paths at multiple abstraction levels.
 - **[Developer Guide](docs/DEVELOPER_GUIDE.md)** — Step-by-step setup, Rust crash course for C/C++/Java developers, how to extend each subsystem, testing guide, and debugging tips.
+- **[Technology Stack](docs/TECHNOLOGY_STACK.md)** — Every technology used in the project explained from scratch: what it is, why it was chosen, where it appears in the code, and how to learn more.
+- **[Rust Tutorial](docs/RUST_TUTORIAL.md)** — Self-contained Rust textbook using real zeroclaw code examples. Covers ownership, traits, async, error handling, and all core concepts from zero experience.
 - **[CLAUDE.md](CLAUDE.md)** — Agent engineering protocol (coding standards, PR workflow, security policy).
 
 ### For Contributors
