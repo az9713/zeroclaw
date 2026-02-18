@@ -5,6 +5,12 @@
 <h1 align="center">ZeroClaw 🦀</h1>
 
 <p align="center">
+  <em>This is a clone of the <a href="https://github.com/ZeroClawAI/ZeroClaw">original ZeroClaw repository</a> with added comprehensive documentation — including an <a href="docs/ARCHITECTURE.md">Architecture Guide</a>, <a href="docs/DEVELOPER_GUIDE.md">Developer Guide</a>, and <a href="docs/USER_GUIDE.md">User Guide</a>.</em>
+</p>
+
+---
+
+<p align="center">
   <strong>Zero overhead. Zero compromise. 100% Rust. 100% Agnostic.</strong><br>
   ⚡️ <strong>Runs on $10 hardware with <5MB RAM: That's 99% less memory than OpenClaw and 98% cheaper than a Mac mini!</strong>
 </p>
