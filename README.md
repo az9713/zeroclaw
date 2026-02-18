@@ -5,7 +5,7 @@
 <h1 align="center">ZeroClaw 🦀</h1>
 
 <p align="center">
-  <em>This is a clone of the <a href="https://github.com/ZeroClawAI/ZeroClaw">original ZeroClaw repository</a> with added comprehensive documentation — including an <a href="docs/ARCHITECTURE.md">Architecture Guide</a>, <a href="docs/DEVELOPER_GUIDE.md">Developer Guide</a>, and <a href="docs/USER_GUIDE.md">User Guide</a>.</em>
+  <em>This is a clone of the <a href="https://github.com/zeroclaw-labs/zeroclaw">original zeroclaw repository</a> with added comprehensive documentation — including an <a href="docs/ARCHITECTURE.md">Architecture Guide</a>, <a href="docs/DEVELOPER_GUIDE.md">Developer Guide</a>, and <a href="docs/USER_GUIDE.md">User Guide</a>.</em>
 </p>
 
 ---
