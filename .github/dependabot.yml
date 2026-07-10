@@ -6,7 +6,7 @@ updates:
     schedule:
       interval: weekly
     target-branch: main
-    open-pull-requests-limit: 5
+    open-pull-requests-limit: 0
     labels:
       - "dependencies"
     groups:
@@ -22,7 +22,7 @@ updates:
     schedule:
       interval: weekly
     target-branch: main
-    open-pull-requests-limit: 3
+    open-pull-requests-limit: 0
     labels:
       - "ci"
       - "dependencies"
@@ -39,7 +39,7 @@ updates:
     schedule:
       interval: weekly
     target-branch: main
-    open-pull-requests-limit: 3
+    open-pull-requests-limit: 0
     labels:
       - "ci"
       - "dependencies"
